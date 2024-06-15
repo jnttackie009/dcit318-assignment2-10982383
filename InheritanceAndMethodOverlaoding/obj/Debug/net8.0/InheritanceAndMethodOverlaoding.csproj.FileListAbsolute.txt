@@ -1,0 +1,14 @@
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\bin\Debug\net8.0\InheritanceAndMethodOverlaoding.exe
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\bin\Debug\net8.0\InheritanceAndMethodOverlaoding.deps.json
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\bin\Debug\net8.0\InheritanceAndMethodOverlaoding.runtimeconfig.json
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\bin\Debug\net8.0\InheritanceAndMethodOverlaoding.dll
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\bin\Debug\net8.0\InheritanceAndMethodOverlaoding.pdb
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\InheritanceAndMethodOverlaoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\InheritanceAndMethodOverlaoding.AssemblyInfoInputs.cache
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\InheritanceAndMethodOverlaoding.AssemblyInfo.cs
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\InheritanceAndMethodOverlaoding.csproj.CoreCompileInputs.cache
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\InheritanceAndMethodOverlaoding.dll
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\refint\InheritanceAndMethodOverlaoding.dll
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\InheritanceAndMethodOverlaoding.pdb
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\InheritanceAndMethodOverlaoding.genruntimeconfig.cache
+D:\Coding_lessons\C#\InheritanceAndMethodOverlaoding\obj\Debug\net8.0\ref\InheritanceAndMethodOverlaoding.dll
