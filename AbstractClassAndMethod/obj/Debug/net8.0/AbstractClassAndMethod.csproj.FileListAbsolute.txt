@@ -1,0 +1,14 @@
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\AbstractClassAndMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\AbstractClassAndMethod.AssemblyInfoInputs.cache
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\AbstractClassAndMethod.AssemblyInfo.cs
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\AbstractClassAndMethod.csproj.CoreCompileInputs.cache
+D:\Coding_lessons\C#\AbstractClassAndMethod\bin\Debug\net8.0\AbstractClassAndMethod.exe
+D:\Coding_lessons\C#\AbstractClassAndMethod\bin\Debug\net8.0\AbstractClassAndMethod.deps.json
+D:\Coding_lessons\C#\AbstractClassAndMethod\bin\Debug\net8.0\AbstractClassAndMethod.runtimeconfig.json
+D:\Coding_lessons\C#\AbstractClassAndMethod\bin\Debug\net8.0\AbstractClassAndMethod.dll
+D:\Coding_lessons\C#\AbstractClassAndMethod\bin\Debug\net8.0\AbstractClassAndMethod.pdb
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\AbstractClassAndMethod.dll
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\refint\AbstractClassAndMethod.dll
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\AbstractClassAndMethod.pdb
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\AbstractClassAndMethod.genruntimeconfig.cache
+D:\Coding_lessons\C#\AbstractClassAndMethod\obj\Debug\net8.0\ref\AbstractClassAndMethod.dll
